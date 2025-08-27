@@ -4,4 +4,4 @@ Reviews
 
 - it has an option that display the item randomly in list by pressing that
 
-- or we cam simply move up or down the list
+- or we can simply move up or down the list
